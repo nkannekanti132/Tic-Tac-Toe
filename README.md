@@ -25,4 +25,6 @@ MVVM - Model Veiw ViewModel - Unidirectional data flow using MVVM and `mutableSt
 ## Requirements
 AndroidStudio >= 4.2 
 
+created new srujan branch 2 from main
+
 hi this is new branch from the main branch
